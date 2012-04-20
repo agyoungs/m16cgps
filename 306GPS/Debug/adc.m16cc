@@ -1,0 +1,7 @@
+-I"C:\Users\Alex\HEWWorkSpace\306GPS"
+-I"C:\Users\Alex\HEWWorkSpace\306GPS\306GPS"
+-I"C:\Users\Alex\HEWWorkSpace\306GPS\..\Common"
+-c
+-finfo
+-dir "C:\Users\Alex\HEWWorkSpace\306GPS\306GPS\Debug"
+"C:\Users\Alex\HEWWorkSpace\306GPS\306GPS\adc.c"

@@ -1,0 +1,27 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.2" 
+[CURRENT_PROJECT]
+"306GPS" 
+[GENERAL_DATA]
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"C:\Users\Alex\HEWWorkSpace\306GPS\306GPS\Interrupts.c" 
+"C:\Users\Alex\HEWWorkSpace\306GPS\306GPS\main.c" 
+"C:\Users\Alex\HEWWorkSpace\306GPS\306GPS\movement.c" 
+"C:\Users\Alex\HEWWorkSpace\306GPS\306GPS\ports.c" 
+"C:\Users\Alex\HEWWorkSpace\306GPS\306GPS\ports.h" 
+"C:\Users\Alex\HEWWorkSpace\306GPS\306GPS\QSKDefines.h" 
+"C:\Users\Alex\HEWWorkSpace\306GPS\306GPS\sect30.inc" 
+[WORKSPACE_FILE_STATES]
+"C:\Users\Alex\HEWWorkSpace\306GPS\306GPS\Interrupts.c" 100 100 1054 274 0 4 
+"C:\Users\Alex\HEWWorkSpace\306GPS\306GPS\QSKDefines.h" 25 25 1054 274 0 1 
+"C:\Users\Alex\HEWWorkSpace\306GPS\306GPS\main.c" 75 75 1054 274 0 3 
+"C:\Users\Alex\HEWWorkSpace\306GPS\306GPS\movement.c" 0 0 1054 274 0 5 
+"C:\Users\Alex\HEWWorkSpace\306GPS\306GPS\ports.c" 50 50 1054 274 0 2 
+"C:\Users\Alex\HEWWorkSpace\306GPS\306GPS\ports.h" 0 0 1050 270 0 0 
+"C:\Users\Alex\HEWWorkSpace\306GPS\306GPS\sect30.inc" -8 -30 1170 412 1 6 
+[LOADED_PROJECTS]
+"306GPS" 
+[END]
