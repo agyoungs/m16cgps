@@ -12,7 +12,7 @@
  *              2.0, Better documented Port 7 & 8 functions
  * Created on March 12, 2012
  *******************************************************************************/
- 
+//CHANGES
 //---------------------------------------------------
 //  Purpose:	Initialize Port 8
 //  System registers associated with Port 8 configured

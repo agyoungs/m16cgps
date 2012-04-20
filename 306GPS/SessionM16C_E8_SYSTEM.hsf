@@ -136,13 +136,10 @@
 "{WK_TB00000028_RTOSDEBUG}" "TOOLBAR 0" 59419 2 1 "0.00" 0 0 0 0 0 17 0 "" "0.0" 
 "{WK_TB00000029_SYSTEMTOOL}" "TOOLBAR 0" 59419 2 3 "0.00" 0 0 0 0 0 17 0 "" "0.0" 
 [WINDOW_Z_ORDER]
-"C:\Users\Alex\HEWWorkSpace\306GPS\306GPS\sect30.inc" 
-"C:\Users\Alex\HEWWorkSpace\306GPS\306GPS\Interrupts.c" 
-"C:\Users\Alex\HEWWorkSpace\306GPS\306GPS\movement.c" 
-"C:\Users\Alex\HEWWorkSpace\306GPS\306GPS\ports.c" 
-"C:\Users\Alex\HEWWorkSpace\306GPS\306GPS\main.c" 
-"C:\Users\Alex\HEWWorkSpace\306GPS\306GPS\QSKDefines.h" 
-"C:\Users\Alex\HEWWorkSpace\306GPS\306GPS\ports.h" 
+"C:\cygwin\home\root\git\m16cgps\306GPS\ports.c" 
+"C:\cygwin\home\root\git\m16cgps\306GPS\movement.c" 
+"C:\cygwin\home\root\git\m16cgps\306GPS\IRmovement.c" 
+"C:\cygwin\home\root\git\m16cgps\306GPS\Interrupts.c" 
 [TARGET_NAME]
 "M16C E8 SYSTEM" "" 0 
 [STATUSBAR_STATEINFO_VD1]
